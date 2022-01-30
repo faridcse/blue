@@ -65,17 +65,19 @@ header{
 	width: 45%;
 }
 .banner-content p:first-child {
-	font-size: 28px;
+	font-size: 40px;
 	color: #fff;
 	margin: 0;
 }
 
-.banner-content p:nth-child(2) {
-	font-size: 28px;
-	color: red;
+.banner-content p:nth-last-child(2) {
+	font-size: 18px;
+	line-height: 1.5;
+	color: #fff;
+	margin-top: 5px;
 }
 .banner-content h1{
-	font-size: 30px;
+	font-size: 40px;
 	color: #0177bd;
 	margin: 0;
 }
