@@ -1,1 +1,1 @@
-# blue
+https://faridcse.github.io/blue/
