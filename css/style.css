@@ -27,6 +27,7 @@ header{
 .menu {
 	width: 70%;
 	float: right;
+	margin-top: 20px;
 }
 .menu ul{
     float: right;
